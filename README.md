@@ -53,9 +53,11 @@ I'm Alejandro, Fullstack developer living in <img src="https://cdn-icons-png.fla
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adborroto&show_icons=true&theme=default&count_private=true)](https://github.com/adborroto/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adborroto&show_icons=true&theme=default&count_private=true)](https://github.com/adborroto)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adborroto&layout=compact&hide=html,less,css&langs_count=10)](https://github.com/adborroto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adborroto&layout=compact&hide=html,less,css&langs_count=10)](https://github.com/adborroto)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adborroto&theme=onedark)](https://github.com/adborroto)
 
 <!--
 **adborroto/adborroto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
