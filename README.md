@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alejandro, Fullstack developer living in <img src="https://cdn-icons-png.flaticon.com/512/323/323365.png" width="13"/> <b>Barcelona, Spain</b>. </p>
+I'm Alejandro, Fullstack developer living in <img src="https://cdn-icons-png.flaticon.com/512/323/323365.png" width="13"/> <b>Alicante, Spain</b>. </p>
 <h3>Things I work with</h3>
 <p>
     
